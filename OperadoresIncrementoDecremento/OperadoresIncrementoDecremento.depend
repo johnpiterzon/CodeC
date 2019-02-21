@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550704477 source:/home/tom/Documents/Primer/OperadoresIncrementoDecremento/main.c
+	<stdio.h>
+	<stdlib.h>
+
