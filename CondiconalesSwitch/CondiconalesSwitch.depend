@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550777157 source:/home/tom/Documents/Primer/CondiconalesSwitch/main.c
+	<stdio.h>
+	<stdlib.h>
+
