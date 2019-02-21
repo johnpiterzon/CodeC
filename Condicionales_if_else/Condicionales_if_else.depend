@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550773096 source:/home/tom/Documents/Primer/Condicionales_if_else/main.c
+	<stdio.h>
+	<stdlib.h>
+
