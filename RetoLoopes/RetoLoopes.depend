@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550790167 source:/home/tom/Documents/Primer/RetoLoopes/main.c
+	<stdio.h>
+	<stdlib.h>
+
