@@ -19,6 +19,14 @@ int main()
 
     }
 
+    int max=0;
+
+    for(int i = 0; integerArray[i] >= max ; i++)
+    {
+        max = integerArray[i];
+    }
+    printf("El numero mayor del array es: %i",max);
+
 
     return 0;
 }

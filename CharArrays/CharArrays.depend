@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551185791 source:/home/tom/Documents/Primer/CharArrays/main.c
+	<stdio.h>
+	<stdlib.h>
+
