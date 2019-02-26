@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551194306 source:/home/tom/Documents/Primer/practicaC/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
