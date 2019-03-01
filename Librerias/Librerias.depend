@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551315350 source:/home/tom/Documents/Primer/Librerias/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1551315316 /home/tom/Documents/Primer/Librerias/Operaciones.h
+
